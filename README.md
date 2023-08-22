@@ -1,0 +1,2 @@
+# nQueen1
+Backtracking
